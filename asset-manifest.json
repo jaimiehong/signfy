@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/signfy/static/css/main.e219ae2b.css",
+    "main.js": "/signfy/static/js/main.e6fff0ae.js",
+    "static/js/453.56c2e6bd.chunk.js": "/signfy/static/js/453.56c2e6bd.chunk.js",
+    "static/media/signfy.gif": "/signfy/static/media/signfy.9e7e6d4cf4707e184a4f.gif",
+    "static/media/star1.gif": "/signfy/static/media/star1.90c6f489ac46afa23036.gif",
+    "index.html": "/signfy/index.html",
+    "main.e219ae2b.css.map": "/signfy/static/css/main.e219ae2b.css.map",
+    "main.e6fff0ae.js.map": "/signfy/static/js/main.e6fff0ae.js.map",
+    "453.56c2e6bd.chunk.js.map": "/signfy/static/js/453.56c2e6bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e219ae2b.css",
+    "static/js/main.e6fff0ae.js"
+  ]
+}
